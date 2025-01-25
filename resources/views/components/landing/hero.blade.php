@@ -13,7 +13,7 @@
         </div>
         <div class="w-full relative z-20">
             <div class="w-full">
-                <div class="flex justify-around gap-x-16 mt-8 bg-gradient-to-l from-elevation-01dp to-elevation-02dp border border-helper-outline rounded-sm py-6 px-16">
+                <div class="flex md:flex-row flex-col justify-around gap-x-16 mt-8 bg-gradient-to-l from-elevation-01dp to-elevation-02dp border border-helper-outline rounded-sm py-6 px-16">
                     <div class="flex items-center gap-x-3 font-secondary">
                         <div class="bg-[#7B5AFF] rounded-lg p-2">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -25,8 +25,8 @@
                             <p class="text-text-medium font-medium font-secondary">13 de Maio, 2024 - 17:00 Hrs</p>
                         </div>
                     </div>
-                    <div class="w-px h-12 bg-helper-outline self-center"></div>
-                    <div class="flex items-center gap-x-3">
+                    <div class="w-px h-12 bg-helper-outline self-center hidden md:block"></div>
+                    <div class="flex items-center gap-x-3 mt-8 md:mt-0">
                         <div class="bg-[#7B5AFF] rounded-lg p-2">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
                                 <path d="M12 13.43C13.7231 13.43 15.12 12.0331 15.12 10.31C15.12 8.58687 13.7231 7.19 12 7.19C10.2769 7.19 8.88 8.58687 8.88 10.31C8.88 12.0331 10.2769 13.43 12 13.43Z" stroke="white" stroke-width="1.5"/>

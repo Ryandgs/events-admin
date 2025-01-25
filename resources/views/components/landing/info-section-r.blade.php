@@ -1,6 +1,6 @@
 <div class="h-[600px] w-full flex justify-center items-center flex-col relative bg-[url('{{ asset('/assets/background-hero.webp') }}')] bg-no-repeat bg-[center_left_70vw] bg-[length:auto_70%]">
     <div class="absolute inset-0 bg-gradient-to-b from-black/80 via-black/80 to-black to-90%"></div>
-    <div class="h-full text-left container mx-auto relative z-10 flex flex-col justify-center gap-y-4 py-16">
+    <div class="h-full p-8 text-left container mx-auto relative z-10 flex flex-col justify-center gap-y-4 py-16">
         <div class="md:w-[60%]">
             <span class="text-[#7B5AFF] text-3xl font-bold font-secondary">Titulo foda</span>
             <h1 class="text-text-high text-sm font-bold font-secondary first-letter:uppercase">Lorem ipsum</h1>
