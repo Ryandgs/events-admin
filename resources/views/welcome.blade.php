@@ -6,6 +6,7 @@
     <x-landing.cta-invite />
     <x-landing.info-section-r />
     <x-landing.info-section-l />
+    <x-landing.forms />
     <x-landing.discover-city />
     <x-landing.footer />
 </x-app-layout>
